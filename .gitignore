@@ -10,7 +10,7 @@ Log/
 .svn/
 Temp/
 accesstoken
-#wechat.cfg.php
+wechat.cfg.php
 ################
 ## Eclipse
 #################
