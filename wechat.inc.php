@@ -52,7 +52,11 @@ Class Wechat{
   //win测试方法
     public function wintest(){
 		echo 'this is win test page';
-	}
+	  }
+  //mac测试方法
+    public function mactest(){
+    echo 'this is mac test page';
+    }
   //调用的微信服务器验证的方法
     public function valid()
       {
