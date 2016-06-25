@@ -49,6 +49,10 @@ Class Wechat{
             </Music>
             </xml>";
   }
+  //win测试方法
+    public function wintest(){
+		echo 'this is win test page';
+	}
   //调用的微信服务器验证的方法
     public function valid()
       {
